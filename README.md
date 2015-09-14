@@ -1,2 +1,2 @@
 # golang
-Gopang repobfor learning stuff
+Go lang repo for learning stuff
